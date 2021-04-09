@@ -3,8 +3,8 @@ import React from "react";
 const Card = (props) => {
     return(
         <div>
-            Placeholder: {props.item.picture}
-            Description: {props.item.description}
+            <img src={props.cardObject.picture} alt={props.cardObject.description} />
+            Description: {props.cardObject.description}
         </div>
     );
 };
