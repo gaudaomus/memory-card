@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.c2c093ce.chunk.css",
+    "main.js": "/memory-card/static/js/main.5feb8186.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.5feb8186.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.49a86c9e.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.49a86c9e.js.map",
+    "static/js/2.ffd88623.chunk.js": "/memory-card/static/js/2.ffd88623.chunk.js",
+    "static/js/2.ffd88623.chunk.js.map": "/memory-card/static/js/2.ffd88623.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.c2c093ce.chunk.css.map": "/memory-card/static/css/main.c2c093ce.chunk.css.map",
+    "static/js/2.ffd88623.chunk.js.LICENSE.txt": "/memory-card/static/js/2.ffd88623.chunk.js.LICENSE.txt",
+    "static/media/cow.201ebe5a.jpeg": "/memory-card/static/media/cow.201ebe5a.jpeg",
+    "static/media/dog.75db854d.jpeg": "/memory-card/static/media/dog.75db854d.jpeg",
+    "static/media/fish.0d4275e4.jpeg": "/memory-card/static/media/fish.0d4275e4.jpeg",
+    "static/media/moon-moon.76720d13.jpeg": "/memory-card/static/media/moon-moon.76720d13.jpeg",
+    "static/media/sheeps.06b48db8.jpeg": "/memory-card/static/media/sheeps.06b48db8.jpeg",
+    "static/media/turtle.f7fb09c6.jpeg": "/memory-card/static/media/turtle.f7fb09c6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a86c9e.js",
+    "static/js/2.ffd88623.chunk.js",
+    "static/css/main.c2c093ce.chunk.css",
+    "static/js/main.5feb8186.chunk.js"
+  ]
+}
